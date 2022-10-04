@@ -1,0 +1,75 @@
+/* Write some CSS below */
+p {
+	font-weight: lighter;
+	color: #030202;
+	font-family: cursive;
+
+}
+h1 {
+	color:#813b96;
+}
+h2 {
+	color: #dae0eb;
+}
+	
+div{
+	border: 1px;
+	margin: 30px ;
+	padding: 100px;
+	border-radius: 5px;
+}
+
+.banner {
+	background-image: linear-gradient(rgba(94, 141, 176, 0.44),rgba(94, 141, 176, 0.44)), url('images/aviv.webp');
+	background-size: cover;
+	background-position: center;
+	padding: 150px 0;
+	text-align: center;
+}
+
+.banner h1 {
+	background-image: linear-gradient;
+	padding: 150px;
+	text-align: center;
+}
+
+.banner h1 {
+	color: ghostwhite;
+}
+
+
+.card-white {
+	background-color: lightgray;
+	box-shadow: 2px 10px 10px;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	width: 300px;
+}
+
+.card-white img {
+	width: 100%;
+}
+
+.cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 16px;
+}
+
+.footer {
+	background-color: ;
+	text-align: center;
+	padding: 24px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
